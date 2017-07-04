@@ -5,7 +5,7 @@
 3 - Descargar el proyecto de GitHub: Clone or download > Download ZIP
 
 4 - Descomprimir la carpeta contenedora de la aplicación en la carpeta "htdocs" (que se encuentra dentro de la carpeta "xampp")
-    y cambiarle el nombre "aplicacion-master" por "app2"
+    y cambiarle el nombre "aplicacion_mysqli-master" por "app2"
 
 5 - Entrar en phpMyAdmin (localhost/phpmyadmin) con usuario "root" y contraseña "root"
 
