@@ -1,0 +1,64 @@
+body {
+	background: radial-gradient(circle, white, purple);
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.ui-menu-item {
+	background-color: white;
+	color: black;
+	padding: 10px 0px 0px 0px;
+	text-decoration: none;
+	width: 22.5%;
+	height: 30px;
+}
+
+.ui-menu-item:hover {
+	background-color: orange;
+	cursor: pointer;
+}
+
+.ui-menu-item:active {
+	background-color: green;
+}
+
+.ui-helper-hidden-accessible {
+	display: none;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+#buscador {
+	width: 22.5%;
+	height: 30px;
+	font-family: arial;
+	font-size: 1em;
+}
+
+#boton {
+	background: #e5e5e5;
+	display: inline-block;
+	margin: 0 6px;
+	padding: 7px 20px 7px;
+	color: #333;
+	text-decoration: none;
+	text-shadow: 0 1px 1px #FFF;
+	border: 1px solid #ccc;
+}
+
+#boton:hover {
+	background: orange;
+	color: #3a7999;
+	box-shadow: inset 0 0 0 3px #3a7999;
+	cursor: pointer;
+}
+
+#mapa {
+	width: 70%;
+	height: 575px;
+	margin: 0 auto;
+}
